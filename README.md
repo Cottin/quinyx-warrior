@@ -1,7 +1,5 @@
 # Quinyx Warrior
 
-Deployed and hosted at [https://quinyxwarrior.firebaseapp.com](https://quinyxwarrior.firebaseapp.com)
-
 ## Server
 Backend build in node.js using coffee script. Integration with spread sheet using npm module 'google-spreadsheet'.
 
