@@ -1,0 +1,7 @@
+module.exports = {
+	// NOTE: make a copy of this file and rename it to config.dev.js.
+	// In order to be able to test from another device, instead of using
+	// localhost, use your computers ip or it's name like victor.local:
+	// BASE_URL_DATA_API: 'http://victor.local:3912'
+	BASE_URL_DATA_API: 'http://localhost:3912'
+}

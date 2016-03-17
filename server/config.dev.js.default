@@ -1,0 +1,12 @@
+// NOTE: make a copy of this file and name it config.dev.js
+// Also, you must ask for the private key 
+module.exports = {
+	google_creds: {
+		client_email: "quinyx-worrior@appspot.gserviceaccount.com",
+		private_key: "ASK FOR THE PRIVATE KEY AND PUT IT HERE"
+	},
+	// this document is a copy of the real warrior spreadsheet so
+	// we can develop with "safe" data.
+	// You can find it at: https://docs.google.com/a/quinyx.com/spreadsheets/d/1a1584pE76EXlqkbaT7KI85GzAIxAbv-TEccoiX8SROc/edit?usp=sharing
+	document_id: '1a1584pE76EXlqkbaT7KI85GzAIxAbv-TEccoiX8SROc',
+}
